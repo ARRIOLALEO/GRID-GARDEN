@@ -219,3 +219,19 @@ in this level we can use grid-column-end :end ;it will span the grid to the end
 
 }
 ```
+## level 18
+```
+#garden {
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20% 20%;
+  grid-template-rows: 20% 20% 20% 20% 20%;
+}
+
+#water-1 {
+  grid-area: 1 / 4 / 6 / 5;
+}
+
+#water-2 {
+
+}
+```
