@@ -232,6 +232,6 @@ in this level we can use grid-column-end :end ;it will span the grid to the end
 }
 
 #water-2 {
-
+grid-area:2/3/5/6;
 }
 ```
